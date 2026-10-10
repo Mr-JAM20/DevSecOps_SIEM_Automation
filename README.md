@@ -118,5 +118,5 @@ sudo systemctl start wazuh-watchdog.service
 *   **100% Local Hardware Reclamation:** Offloaded memory-heavy OpenSearch database storage instances to SaaS infrastructure, saving up to 8GB of local RAM and preventing system-wide laptop hangs [INDEX, INDEX].
 *   **Zero-Latency Alert Transmission:** Maintained an end-to-end data processing velocity of **under 1 second flat** from local event logging to public cloud notification delivery [INDEX].
 *   **0.0% CPU Optimization:** Integrated context manager streams and file pointer sleep throttles, entirely eliminating the processing load spikes caused by traditional continuous log file-polling models [INDEX].
-
+email: [josephayesa995@gmail.com]
 
